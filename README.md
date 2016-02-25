@@ -1,5 +1,8 @@
-InstaTake
+InstaPull
 ===================
+Access from http://hazelnutts.github.io/instapull/
+
+## InstaTake description
 
 InstaTake is a bunch of javascript code that allows you to download pictures from Instagram.
 It was available (for few hours, actually) on [instatake.com](http://www.instatake.com) but Instagram didn't like it :(
