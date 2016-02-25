@@ -116,7 +116,7 @@ var big_data = "";
 
 
 $.ajax({
-  url: "https://crossorigin.me/https://widget.websta.me/rss/n/" + config.username,
+  url: "http://widget.websta.me/in/" + config.username + "/?s=1000&w=100&h=100&b=1&p=5",
   success: function(data) {
     images = data.match(new RegExp("(https:\/\/scontent.cdninstagram.com\/)[\.a-z0-9-/_?=A-Z%]*", "g"));
     console.log(images.length);
